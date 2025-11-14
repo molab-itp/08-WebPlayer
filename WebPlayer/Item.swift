@@ -10,6 +10,10 @@
 //
 
 let items = [
+  Item(label:"sketches/shapes_random_pause_v22", ref:"sketches/shapes_random_pause_v22/index.html"),
+  Item(label:"sketches/ims04-jht-scroll-color-v2/", ref:"sketches/ims04-jht-scroll-color-v2/index.html"),
+  Item(label:"sketches/color-twinz-umd",ref:"sketches/color-twinz-umd/index.html"),
+  Item(label:"sketches/dist", ref:"sketches/dist/index.html"),
   Item(label:"ims-03-jht truchet tiles pause v2", ref:"https://editor.p5js.org/jht9629-nyu/sketches/CYMdD77ySc"),
   Item(label:"vote-no-fascism", ref:"https://molab-itp.github.io/moSalon/src/vote-no-fascism/?v=56"),
   Item(label:"Technology by Vamoss", ref:"https://editor.p5js.org/jht9629-nyu/sketches/syH2Nh5RO"),
@@ -19,14 +23,10 @@ let items = [
   Item(label:"black facts - moSalon", ref:"https://molab-itp.github.io/moSalon/src/black-enter/?v=51&group=s1"),
   Item(label:"let-america-be", ref: "https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1"),
   Item(label:"github.io shapes random pause", ref:"https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/p5projects/shapes%20random%20pause%20v22-n0LYuXRmX/?v=1"),
-  Item(label:"sketches/shapes_random_pause_v22", ref:"sketches/shapes_random_pause_v22/index.html"),
   Item(label:"shapes random pause n0LYuXRmX", ref:"https://editor.p5js.org/jht9629-nyu/sketches/n0LYuXRmX"),
-  Item(label:"sketches/ims04-jht-scroll-color-v2/", ref:"sketches/ims04-jht-scroll-color-v2/index.html"),
   Item(label:"scroll color rate 2pxhnehBV", ref:"https://editor.p5js.org/jht9629-nyu/sketches/2pxhnehBV"),
   Item(label:"github.io/ims04-jht scroll color rate", ref:"https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/p5projects/ims04-jht%20scroll%20color%20rate-2pxhnehBV/"),
-  Item(label:"sketches/color-twinz-umd",ref:"sketches/color-twinz-umd/index.html"),
   Item(label:"color-twinz-beta.vercel",ref:"https://color-twinz-beta.vercel.app/"),
-  Item(label:"sketches/dist", ref:"sketches/dist/index.html"),
   Item(label:"p5videoKit", ref:"https://jht1493.net/p5videoKit/demo/"),
   Item(label:"faceMesh group=s1 ", ref:"https://molab-itp.github.io/moSalon/src/faceMesh/index.html?&v=50&group=s1"),
   Item(label:"faceMesh", ref:"https://molab-itp.github.io/moSalon/src/faceMesh/qrcode/?v=50"),
