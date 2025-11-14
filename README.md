@@ -1,4 +1,4 @@
-# [WebPlayer](https://github.com/molab-itp/WebPlayer.git)
+# [WebPlayer](https://github.com/molab-itp/08-WebPlayer)
 
 - use UIViewRepresentable to show WKWebView for web content
 
